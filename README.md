@@ -1,7 +1,7 @@
 Hi 👋 My name is Jella Saaketh
 ==============================
 
-Student | Wngineer
+Student | Engineer
 ------------------
 
 I'm doing my bachelors in Artificial Intelligence and machine learning at Amity University.
