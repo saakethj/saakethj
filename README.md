@@ -6,6 +6,7 @@ Student | Engineer
 
 I'm doing my bachelors in Artificial Intelligence and machine learning at Amity University.
 
+* 🖥️  See my portfolio at [My Portfolio](http://saakethj.github.io)
 * ✉️  You can contact me at [saaketh.jella123@gmail.com](mailto:saaketh.jella123@gmail.com)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on interesting projects
