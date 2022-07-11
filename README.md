@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/saakethj?logo=github&style=for-the-
 <b>My GitHub Stats</b>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saakethj&show_icons=true&locale=en" alt="saakethj" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saakethj&show_icons=true&locale=en&layout=compact" alt="saakethj" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saakethj&layout=compact" alt="saakethj" /></p>
 
 <b>Top Repositories</b>
 
