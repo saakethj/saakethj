@@ -3,7 +3,7 @@
 
 I'm doing my bachelors in Artificial Intelligence and machine learning at Amity University.
 
-* 🖥️  See my portfolio at [My Portfolio](http://saakethj.github.io)
+* 🖥️  See my portfolio at [My Portfolio](https://saakethj.github.io/Portfolio/)
 * ✉️  You can contact me at [saaketh.jella123@gmail.com](mailto:saaketh.jella123@gmail.com)
 * ⚡  I like to do code and work on machine learning projects
 * 🔭 I’m currently working on **Social Media app**
