@@ -7,7 +7,7 @@ I'm doing my bachelors in Artificial Intelligence and machine learning at Amity 
 * ✉️  You can contact me at [saaketh.jella123@gmail.com](mailto:saaketh.jella123@gmail.com)
 * ⚡  I like to do code and work on machine learning projects
 * 🔭 I’m currently working on **Social Media app**
-* 🌱 I’m currently learning **Php, JavaScript, Flutter**
+* 🌱 I’m currently learning **Php, JavaScript**
 * 💬 Ask me about **HTML, Python, ML**
 
 <a href="https://www.twitter.com/SaakethJ" target="_blank" rel="noreferrer"><img
