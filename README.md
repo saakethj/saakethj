@@ -5,7 +5,7 @@ I'm doing my bachelors in Artificial Intelligence and machine learning at Amity 
 
 * 🖥️  See my portfolio at [My Portfolio](https://saakethj.github.io/Portfolio/)
 * ✉️  You can contact me at [saaketh.jella123@gmail.com](mailto:saaketh.jella123@gmail.com)
-* ⚡  I like to do code and work on machine learning projects
+* ⚡  I like to code and work on machine learning projects
 * 🔭 I’m currently working on **Social Media app**
 * 🌱 I’m currently learning **Php, JavaScript**
 * 💬 Ask me about **HTML, Python, ML**
