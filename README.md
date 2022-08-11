@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jella Saaketh</h1>
-<h3 align="center">A student from Amity University</h3>
+<h3 align="center">A Machine Learning student from Amity University</h3>
 
 I'm doing my bachelors in Artificial Intelligence and machine learning at Amity University.
 
