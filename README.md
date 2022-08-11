@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jella Saaketh</h1>
-<h3 align="center">A Machine Learning student from Amity University</h3>
+<h3 align="center">A student from Amity University</h3>
 
 I'm doing my bachelors in Artificial Intelligence and machine learning at Amity University.
 
@@ -8,7 +8,7 @@ I'm doing my bachelors in Artificial Intelligence and machine learning at Amity 
 * ⚡  I like to code and work on machine learning projects
 * 🔭 I’m currently working on **Social Media app**
 * 🌱 I’m currently learning **Php, JavaScript**
-* 💬 Ask me about **HTML, Python, ML**
+* 💬 Ask me about **JAVA, HTML, Python, ML**
 
 <a href="https://www.twitter.com/SaakethJ" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SaakethJ?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
