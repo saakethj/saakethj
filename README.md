@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/76273604/184396247-a57e0a3b-95df-4609-ba88-97731e2f43dd.png)
 <h1 align="center">Hi 👋, I'm Jella Saaketh</h1>
 <h3 align="center">A student from Amity University</h3>
 
