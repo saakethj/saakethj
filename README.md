@@ -8,7 +8,8 @@ I'm doing my bachelors in Artificial Intelligence and machine learning at Amity 
 * ✉️  You can contact me at [saaketh.jella123@gmail.com](mailto:saaketh.jella123@gmail.com)
 * ⚡  I like to code and work on machine learning projects
 * 🔭 I’m currently working on **Social Media app**
-* 🌱 I’m currently learning **Php, JavaScript**
+* 👨‍💻 All of my projects are available at [My Projects](https://saakethj.github.io/Portfolio/)
+* 🌱 I’m currently learning **Php, JavaScript, R**
 * 💬 Ask me about **JAVA, HTML, Python, ML**
 
 <a href="https://www.twitter.com/SaakethJ" target="_blank" rel="noreferrer"><img
@@ -24,9 +25,11 @@ src="https://img.shields.io/github/followers/saakethj?logo=github&style=for-the-
 
 ### Socials
 
+<a href="https://linkedin.com/in/jella saaketh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jella saaketh" height="30" width="40" /></a>
 <a href="https://twitter.com/saakethj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saakethj" height="30" width="40" /></a>
 <a href="https://kaggle.com/saaketh jella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saaketh jella" height="30" width="40" /></a>
 <a href="https://fb.com/saaketh jella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saaketh jella" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/saaketh jella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saaketh jella" height="30" width="40" /></a>
 <a href="https://instagram.com/saakethjella_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saakethjella_01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jsaaketh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jsaaketh" height="30" width="40" /></a>
 <a href="https://discord.gg/saaketh jella #0226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saaketh jella #0226" height="30" width="40" /></a>
