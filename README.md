@@ -1,15 +1,15 @@
 ![image](https://user-images.githubusercontent.com/76273604/184396247-a57e0a3b-95df-4609-ba88-97731e2f43dd.png)
 <h1 align="center">Hi 👋, I'm Jella Saaketh</h1>
-<h3 align="center">A student from Amity University</h3>
+<h3 align="center">Associate Software Engineer at BNP PARIBAS ISPL </h3>
 
-I'm doing my bachelors in Artificial Intelligence and machine learning at Amity University.
+Developer at BNP PARIBAS ISPL.
 
 * 🖥️  See my portfolio at [My Portfolio](https://saakethj.github.io/Portfolio/)
 * ✉️  You can contact me at [saaketh.jella123@gmail.com](mailto:saaketh.jella123@gmail.com)
 * ⚡  I like to code and work on machine learning projects
 * 🔭 I’m currently working on **Social Media app**
 * 👨‍💻 All of my projects are available at [My Projects](https://saakethj.github.io/Portfolio/)
-* 🌱 I’m currently learning **Php, JavaScript, R**
+* 🌱 I’m currently learning **Python, Jenkins**
 * 💬 Ask me about **JAVA, HTML, Python, ML**
 
 <a href="https://www.twitter.com/SaakethJ" target="_blank" rel="noreferrer"><img
