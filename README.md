@@ -12,12 +12,19 @@ I'm a detail-oriented Software Engineer at **BNP Paribas ISPL**, with 2 years of
 ### 💼 Work Experience
 
 **BNP Paribas ISPL**  
-*Intern → Software Engineer (Jan 2023 – Present)*  
+*Associate Software Engineer - I (Jul 2023 – Present)*  
 - Worked on **reconciliation automation** using the Intellimatch tool.  
 - Gained hands-on experience with **cash reconciliation workflows**, **SQL queries**, and **batch processing**.  
 - Built Python scripts for **data masking** and **file decryption** of incoming **SWIFT MT messages**.  
 - Participated in two major **migration projects** involving statement processing and reconciliation transformation.  
-- Scheduled and maintained jobs using **AutoSys**.  
+- Scheduled and maintained jobs using **AutoSys**.
+
+ **BNP Paribas ISPL**  
+*Intern  (Jan 2023 – Jul 2023)*  
+- Recognized for exceptional performance; promoted to full-time Associate Software Engineer.
+- Learned banking reconciliation tools like IntelliMatch, SWIFT messages, and exception handling.
+- Supported migration and validation of reconciliation rules and processes.
+- Participated in root-cause analysis and logic-building for exception scenarios. 
 
 ---
 
