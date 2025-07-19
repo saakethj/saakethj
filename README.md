@@ -29,7 +29,7 @@ I'm a detail-oriented Software Engineer at **BNP Paribas ISPL**, with 2 years of
 
 ### 📫 Contact Me
 - Email: [saaketh.jella123@gmail.com](mailto:saaketh.jella123@gmail.com)
-- Portfolio: [My Portfolio](https://saakethj.github.io/Portfolio/) _(pending update)_
+- Portfolio: [My Portfolio](https://saakethj.github.io/saaketh-portfolio/)
 
 ---
 
