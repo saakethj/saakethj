@@ -3,7 +3,15 @@
 <h1 align="center">Hi 👋, I'm Jella Saaketh</h1>
 <h3 align="center">Software Engineer at BNP Paribas ISPL</h3>
 
-I'm a detail-oriented Software Engineer at **BNP Paribas ISPL**, with 2 years of experience including a 6-month internship. I specialize in building Python-based automation tools and have worked extensively on reconciliation systems using the **Intellimatch** platform, **SQL**, and **batch scripting**.
+Detail-oriented and proactive Software Engineer with 2+ years of experience delivering automation and reconciliation solutions in the financial services domain at BNP Paribas India Solutions. I specialize in streamlining financial workflows using Python scripting, SQL, and tools like IntelliMatch, AutoSys, and Power BI.
+🧠 With a strong academic background in Artificial Intelligence & Machine Learning, I bring both technical rigor and analytical thinking to every project. Whether it's migrating legacy tools, optimizing reconciliation logic, or automating data pipelines, I strive to build efficient, scalable, and impactful solutions.
+🔧 Core Competencies:
+ • Financial Reconciliation (IntelliMatch, SWIFT)
+ • Python & Batch Scripting
+ • Workflow Automation (AutoSys, Admin Module)
+ • Reporting (Power BI, RDL, Stored Procedures)
+ • Exception Handling & Root-Cause Analysis
+🌟 Always eager to collaborate, learn, and grow — Let’s connect and explore how technology can solve real-world financial challenges.
 
 🔍 Recently promoted from **Associate Software Engineer** to **Software Engineer**, I’m now focused on expanding my skill set into **DevOps**.
 
